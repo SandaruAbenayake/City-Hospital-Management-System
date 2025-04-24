@@ -13,4 +13,4 @@
 Java (Swing GUI)
 NetBeans IDE
 JDBC (for database connection)
-MySQL (recommended backend DB)
+MySQL (backend DB)
